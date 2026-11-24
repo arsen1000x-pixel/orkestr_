@@ -2,9 +2,9 @@
   "schema": 1,
   "builds": [
     {
-      "id": "test",
-      "name": "test",
-      "description": "test",
+      "id": "1",
+      "name": "Сборка криейт аранафтика",
+      "description": "-",
       "build_version": "1.0.0",
       "minecraft": "1.21.1",
       "loader": "neoforge",
